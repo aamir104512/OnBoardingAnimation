@@ -14,6 +14,7 @@ import {
   StatusBar,
   StyleSheet,
   Text,
+  Image,
   useColorScheme,
   View,
 } from 'react-native';
